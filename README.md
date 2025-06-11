@@ -1,2 +1,2 @@
-# equatorial-coffee
-equatorial-coffee
+# Equatorial
+
